@@ -1,11 +1,11 @@
 input: .
 output: .retype
 url: wiki.wavehost.eu
-logo: /static/logo.png
 meta:
   title: ' - WaveHost.eu'
 branding:
   title: WaveHost.eu
+  logo: /static/logo.png
   label: Wiki
 links:
   - text: Strona główna
