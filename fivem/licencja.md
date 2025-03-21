@@ -16,10 +16,10 @@ authors:
 
 2. Po zalogowaniu przejdź do <span style="color:rgb(67, 136, 233);">New Server</span>
 
-   ![](../static/key1.png)
+   ![](../../static/key1.png)
 3. Wypełnij dane podając:
 - <span style="color:rgb(0, 132, 255);">Display Name</span> - Nazwa Serwera
 
-   ![](../static/key2.png)
+   ![](../../static/key2.png)
 
 4. Skopiuj wyświetlony klucz oraz wklej go w zakładcę `Startup` w sekcji `FIVEM LICENSE`
