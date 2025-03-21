@@ -1,6 +1,7 @@
 ---
 title: Licencja FiveM
 icon: key
+logo: /static/logo.png
 order: 1
 description: Podłączenie klucza licencyjnego FiveM 
 authors:
