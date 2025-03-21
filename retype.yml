@@ -1,7 +1,7 @@
 input: .
 output: .retype
 url: wiki.wavehost.eu
-favicon: /static/favicon.ico
+favicon: /static/logo.png
 meta:
   title: ' - WaveHost.eu'
 branding:
