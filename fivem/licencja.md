@@ -7,7 +7,7 @@ description: Podłączenie klucza licencyjnego FiveM
 authors:
     - name: AziQr
       avatar: https://cdn.discordapp.com/avatars/721456127883214920/b255ed6fe1ab955f94e58313e9edd366.webp?size=80
-    - name: s1moon
+    - name: Jäger
       avatar: https://cdn.discordapp.com/avatars/1266740040785072236/428c90855f995e97059ed8aa229ffd04.webp?size=80
 ---
 
