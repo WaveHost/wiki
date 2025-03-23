@@ -1,6 +1,6 @@
 ---
 title: Podłączenie bazy danych
-icon: globe
+icon: key
 logo: /static/logo.png
 order: 1
 description: Podłączenie bazy danych - FiveM 
