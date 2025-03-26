@@ -14,7 +14,7 @@ authors:
 # 🔧 Konfiguracja txAdmin w FiveM
 Poniżej znajdziesz szczegółową instrukcję konfiguracji txAdmin w panelu WaveHost. Postępuj zgodnie z krokami, aby poprawnie uruchomić i skonfigurować panel administracyjny serwera.
 !!!primary UWAGA
-Aby zacząć konfigurację ustaw porty txAdmina -> [Jak ustawić porty txAdmina](fivem/port_txadmin.md)
+Aby zacząć konfigurację ustaw porty txAdmina -> [Jak ustawić porty txAdmina](https://wavehost.github.io/wiki/fivem/port_txadmin/)
 
 !!!
 
