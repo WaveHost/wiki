@@ -1,6 +1,7 @@
 input: .
 output: .retype
 url: wiki.wavehost.eu
+favicon: static/logo.png
 logo: /static/logo.png
 meta:
   title: ' - WaveHost.eu'
