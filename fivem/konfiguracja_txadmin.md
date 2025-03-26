@@ -35,5 +35,36 @@ Aby zacząć konfigurację ustaw porty txAdmina -> [Jak ustawić porty txAdmina]
       ![](/static/fivem/konfiguracja_txadmin2.png)
     
   - Przejdź pod podany adres i zaloguj się za pomocą wygenerowanego kodu.
+  - Opcjonalnie ustaw identyfikator konta Discord oraz hasło zapasowe.
+  - Zaakceptuj regulamin i kliknij Register.
 
-🎉 Gratulacje! Port txAdmin został pomyślnie zmieniony. Jeśli napotkasz problemy, skontaktuj się z pomocą techniczną WaveHost. 🚀
+**3. Konfiguracja serwera w txAdmin**
+- W pierwszym kroku konfiguracji wpisz nazwę serwera i kliknij NEXT.
+
+    ![](/static/fivem/konfiguracja_txadmin3.png)
+- W drugim kroku wybierz opcję "Existing Server Data", aby użyć istniejących plików serwera.
+
+  ![](/static/fivem/konfiguracja_txadmin4.png)
+  
+- W trzecim kroku ustaw ścieżkę folderu głównego serwera i kliknij NEXT:
+```
+/home/container/
+```
+  ![](/static/fivem/konfiguracja_txadmin5.png)
+
+- W piątym kroku ustaw ścieżkę pliku "server.cfg":
+```
+/home/container/server.cfg
+```
+  ![](/static/fivem/konfiguracja_txadmin6.png)
+
+**5. Uruchomienie serwera w txAdmin**
+- Kliknij "Save & Start Server", aby zakończyć konfigurację i uruchomić serwer.
+  
+  ![](/static/fivem/konfiguracja_txadmin7.png)
+  
+- Po uruchomieniu powinien pojawić się panel zarządzania txAdmin.
+  
+    ![](/static/fivem/konfiguracja_txadmin8.png)
+
+🎉 Gratulacje! Twój txAdmin został pomyślnie skonfigurowany i jest gotowy do użycia. Jeśli napotkasz problemy, skontaktuj się z pomocą techniczną WaveHost. 🚀
