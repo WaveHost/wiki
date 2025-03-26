@@ -29,8 +29,5 @@ Poniżej znajdziesz szczegółową instrukcję zmiany portu txAdmin w panelu Wav
   
      ![](/static/fivem/portadmin2.png)
   
-- Następnie zmień port w "STARTUP COMMAND" na port skopiowany w zakładce <span style="color:rgb(67, 136, 233);">"Network"</span>.
-  
-     ![](/static/fivem/portadmin3.png)
 
 🎉 Gratulacje! Port txAdmin został pomyślnie zmieniony. Jeśli napotkasz problemy, skontaktuj się z pomocą techniczną WaveHost. 🚀
