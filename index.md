@@ -1,6 +1,6 @@
 ---
 title: WaveHost Wiki
-icon: /static/logo.png
+icon: home
 description: WaveHost Wiki to centrum wiedzy dla administratorów serwerów, które zawiera szczegółowe poradniki, instrukcje i wskazówki dotyczące zarządzania serwerami gier. Niezależnie od tego, czy dopiero zaczynasz, czy jesteś doświadczonym administratorem, znajdziesz tutaj niezbędne informacje, które ułatwią konfigurację i optymalizację Twojego serwera. 🚀
 authors:
     - name: AziQr
