@@ -25,7 +25,8 @@ Ikona serwera musi spełniać następujące wymagania:
 - Przejdź do zakładki <span style="color:rgb(67, 136, 233);">"File managers"</span>.
 - Kliknij "Upload" i wybierz przygotowaną ikonę.
     ![](/static/fivem/logo3.png)
-  
+
+---
 - Możesz również przesłać plik przez SFTP.
 !!!primary UWAGA!
 Ikona musi znajdować się bezpośrednio w głównym katalogu serwera.
