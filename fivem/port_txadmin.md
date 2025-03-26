@@ -1,9 +1,9 @@
 ---
-title: Zmiana ikony serwera
+title: Zmiana portu txAdmin
 icon: 
 logo: /static/logo.png
 order: 1
-description: Zmiana ikony serwera
+description: Zmiana portu txAdmin
 authors:
     - name: AziQr
       avatar: /static/avatars/aziqr.png
