@@ -21,7 +21,7 @@ Ikona serwera musi spełniać następujące wymagania:
   -  Format: PNG
 
 **2. Wgranie ikony na serwer**
-- - Zaloguj się do panelu WaveHost.
+  - Zaloguj się do panelu WaveHost.
   - Przejdź do zakładki <span style="color:rgb(67, 136, 233);">"File managers"</span>.
   - Kliknij "Upload" i wybierz przygotowaną ikonę.
          ![](/static/fivem/logo1.png)
