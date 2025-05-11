@@ -18,7 +18,7 @@ Zebraliśmy tu konkretne instrukcje i porady – nie tylko dla nowych użytkowni
 ## 🧭 Co znajdziesz na Wiki?
 
 - **Pierwsze kroki** – odpalanie pierwszego serwera bez stresu
-- **Konfiguracja popularnych silników** – FiveM, Minecraft, CS2 i inne
+- **Konfiguracja popularnych silników** – FiveM, Minecraft i inne
 - **Dobre praktyki i porządek na serwerze** – nie wszystko trzeba wymyślać od nowa
 - **Backupy i bezpieczeństwo** – bo lepiej dmuchać na zimne
 - **Skróty i automatyzacje** – oszczędzaj czas i nerwy
