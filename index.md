@@ -31,8 +31,8 @@ Zebraliśmy tu konkretne instrukcje i porady – nie tylko dla nowych użytkowni
 
 ## 🔗 Potrzebujesz więcej?
 
-Jeśli nie możesz znaleźć odpowiedzi albo coś nie działa tak, jak powinno – wpadaj na nasz [Discord](https://discord.gg/twojlink). Tam szybciej złapiesz pomoc niż pisząc do supportu mailowego. Serio.
+Jeśli nie możesz znaleźć odpowiedzi albo coś nie działa tak, jak powinno – wpadaj na nasz [Discord](https://discord.gg/wavehost). Tam szybciej złapiesz pomoc niż pisząc do supportu mailowego. Serio.
 
 ---
 
-Dzięki, że korzystasz z WaveHost – rozwijamy się dzięki takim osobom jak Ty.
+Dziękujemy, że korzystasz z WaveHost – rozwijamy się dzięki takim osobom jak Ty! 💙
