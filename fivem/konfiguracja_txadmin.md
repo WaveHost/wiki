@@ -1,6 +1,6 @@
 ---
 title: Konfiguracja txAdmin
-icon: 
+icon: /static/icons/txadmin.svg
 logo: /static/logo.png
 order: 1
 description: Konfiguracja txAdmin
